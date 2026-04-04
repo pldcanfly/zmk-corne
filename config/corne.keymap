@@ -38,8 +38,8 @@
 // |      |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M  |  ,  |  .  |  /  |  |   |
 //                    | NUM | NAV | SPC |   | ENT | SYM |  FN |
                         bindings = <
-   &kp ESC    &kp Q       &kp W       &kp E       &kp R        &kp T       &kp Y  &kp U        &kp I       &kp O       &kp P          &kp BSPC
-   &kp TAB    &hm LCTRL A &hm LALT S  &hm LGUI D  &hm LSHFT F  &kp G       &kp H  &hm RSHFT J  &hm RGUI K  &hm RALT L  &hm RCTRL SEMI &kp SQT
+   &kp TAB    &kp Q       &kp W       &kp E       &kp R        &kp T       &kp Y  &kp U        &kp I       &kp O       &kp P          &kp BSPC
+   &kp ESC    &hm LCTRL A &hm LALT S  &hm LGUI D  &hm LSHFT F  &kp G       &kp H  &hm RSHFT J  &hm RGUI K  &hm RALT L  &hm RCTRL SEMI &kp SQT
    &none      &kp Z       &kp X       &kp C       &kp V        &kp B       &kp N  &kp M        &kp COMMA   &kp DOT     &kp FSLH       &kp PIPE
                                        &mo 2       &mo 3        &kp SPACE   &kp RET &mo 1       &mo 4
                         >;
